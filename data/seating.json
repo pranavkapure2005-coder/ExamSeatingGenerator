@@ -1,0 +1,14 @@
+[
+    {
+        "roll_no": "101",
+        "room_no": "A101",
+        "row": 1,
+        "seat": 1
+    },
+    {
+        "roll_no": "102",
+        "room_no": "A101",
+        "row": 1,
+        "seat": 2
+    }
+]
