@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exam Seating Arrangement Generator
 
 A Python-based application that manages student records, exam rooms, seating allocation, and seating reports. It uses object-oriented programming and CSV/JSON files for data persistence.
@@ -123,3 +124,6 @@ python -m unittest discover -v
 ## Disclaimer
 
 This project is an educational software project intended to demonstrate Python programming, file handling, object-oriented design, validation, and automated testing.
+=======
+# ExamSeatingGenerator
+>>>>>>> cfee54db86398b5b728f6a384825a99eb80234f2
